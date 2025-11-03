@@ -9,3 +9,4 @@ console.log("Coding is both fun and challenging.");
 console.log("I look forward to creating amazing applications.");
 console.log("This is just the beginning of my coding journey.");
 console.log("Stay tuned for more updates!");
+console.log("Thank you for reading my script.");
