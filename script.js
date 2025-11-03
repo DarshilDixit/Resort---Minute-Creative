@@ -3,3 +3,8 @@ console.log("Enjoy your stay at our beautiful resort!");
 console.log("Feel free to explore and have a great time!");
 console.log("Contact us for any assistance during your stay.");
 console.log("Thank you for choosing our resort. We hope to see you again!");
+console.log("Special offers available for returning guests!");
+console.log("Check out our spa and wellness center for relaxation.");
+console.log("Don't forget to try our gourmet dining options!");
+console.log("Join us for evening entertainment and activities.");
+console.log("Share your experience with us on social media!");
