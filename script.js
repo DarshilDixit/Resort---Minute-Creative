@@ -3,3 +3,8 @@ console.log("I am learning JavaScript.");
 console.log("I love coding and building projects.");
 console.log("This is my first script file.");
 console.log("I enjoy solving problems with code.");
+console.log("JavaScript is a versatile language.");
+console.log("I am excited to learn more about web development.");
+console.log("Coding is both fun and challenging.");
+console.log("I look forward to creating amazing applications.");
+console.log("This is just the beginning of my coding journey.");
