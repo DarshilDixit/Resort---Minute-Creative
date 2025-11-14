@@ -8,3 +8,5 @@ console.log("Check out our spa and wellness center for relaxation.");
 console.log("Don't forget to try our gourmet dining options!");
 console.log("Join us for evening entertainment and activities.");
 console.log("Share your experience with us on social media!");
+console.log("We value your feedback, please leave a review.");
+console.log("Book your next stay with us and enjoy exclusive discounts!");
